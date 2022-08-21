@@ -1,0 +1,8 @@
+{
+  "name": "NutriFIT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ea08e8a6"
+}
